@@ -1,5 +1,6 @@
 #! /usr/bin/python3
 def non_repeatingchars(str1):
+  ''' Returns the first non-repeatingCharacter from a given string '''
   dict1 = {}
   characters = list(str1)
 
